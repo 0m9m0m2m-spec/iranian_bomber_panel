@@ -17,7 +17,7 @@
 1.نصب کتابخانه های مورد نیاز
 
 - pip install requests
-- pip install fake-http-header
+- pip install fake-headers
 
   
 2.دوبار کلیک روی فایل :)
